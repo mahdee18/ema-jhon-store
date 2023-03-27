@@ -1,0 +1,33 @@
+.card
+{
+    height: 550px;
+    background-color: whitesmoke;
+    border: 1px solid gray;
+    border-radius: 10px;
+    position: relative;
+}
+.card-text{
+    padding: 15px;
+}
+.card img
+{
+    height: 285px;
+    width: 285px;
+    border-radius: 10px;
+
+}
+
+.btn-cart
+{
+    background: #FFE0B3;
+    border: 1px solid #95A0A7;
+    border-radius: 0px 0px 8px 8px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+
+}
+.btn-cart:hover{
+    background-color: orange;
+    color: white;
+}
