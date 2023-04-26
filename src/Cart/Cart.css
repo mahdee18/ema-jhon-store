@@ -5,3 +5,17 @@
     position: sticky;
     top: 0;
 }
+.cart-btn{
+    background: red;
+    color: white;
+    width: 90%;
+}
+.cart span{
+    font-size: 20px;
+    padding-right: 20px;
+    margin: 10px auto;
+}
+.clear{
+    color: white;
+    font-size: 20px;
+}

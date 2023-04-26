@@ -22,3 +22,7 @@ nav{
 .menu a:hover{
     color: orange;
 }
+.text-white{
+    color: white;
+    margin-left: 20px;
+}

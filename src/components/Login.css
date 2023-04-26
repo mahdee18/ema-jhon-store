@@ -1,0 +1,59 @@
+.login
+{
+    margin: 50px auto;
+    width: 40%;
+    border: 1px solid gray;
+}
+.login p{
+    text-align: center;
+}
+.login span{
+    display: flex;
+}
+.login span hr{
+    width: 30%;
+}
+.popup{
+    text-align: center;
+    margin: 40px;
+    
+}
+.popup button{
+    border: 1px solid gray;
+    width: 415px;
+    padding: 20px 5px;
+}
+.form
+{
+    margin: 0 auto;
+    padding: 40px;
+}
+.form h1{
+    text-align: center;
+    font-weight: 400;
+}
+.form-control
+{
+    margin-bottom: 20px;
+    font-size: 22px;
+
+}
+
+.form-control input
+{
+    padding: 14px 5px;
+    font-size: 20px;
+    border-radius: 8px;
+    width: 415px;
+}
+.form button{
+    padding: 14px 2px;
+    background: #FF9900;
+    font-size: 20px;
+    border-radius: 8px;
+    width: 415px;
+
+}
+.text-error{
+    color: red;
+}
